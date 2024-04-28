@@ -1,7 +1,7 @@
-### Get all contacts from localhost GET http://localhost:6000/users
+### Get all contacts from localhost GET http://localhost:1024/users
 
-### Get contact by id from localhost GET http://localhost:3000/contacts/6338cf4fc51624e0408341bc
+### Get contact by id from localhost GET http://localhost:1024/contacts/662e7ef3c599b8a358ba83ab
 
-### Get all contacts from render GET https://cse341-project-yy19.onrender.com/contacts
+### Get all contacts from render GET https://cse341-nmog.onrender.com/contacts
 
-### Get contact by id from render GET https://cse341-project-yy19.onrender.com/contacts/6338d07ec51624e0408341bd
+### Get contact by id from render GET https://cse341-nmog.onrender.com/contacts/662e7ef3c599b8a358ba83ab

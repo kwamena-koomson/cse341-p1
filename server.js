@@ -3,7 +3,7 @@ const express = require('express');
 const mongodb = require('./data/database');
 const app = express();
 
-const port = process.env.PORT || 6000;
+const port = process.env.PORT || 1024;
 
 app.use('/', require('./routes'));
 
@@ -16,3 +16,5 @@ mongodb.initDb((err)=> {
         app.listen(port, () => {console.log(`Running on port ${port}`)})
     }
 });
+
+

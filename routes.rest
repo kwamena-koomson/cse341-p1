@@ -1,4 +1,4 @@
-### Get all contacts from localhost GET http://localhost:1024/users
+### Get all contacts from localhost GET http://localhost:1024/contacts
 
 ### Get contact by id from localhost GET http://localhost:1024/contacts/662e7ef3c599b8a358ba83ab
 

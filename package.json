@@ -21,8 +21,11 @@
   },
   "homepage": "https://github.com/kwamena-koomson/cse341-p1#readme",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "mongodb": "^6.5.0"
+    "mongodb": "^6.5.0",
+    "swagger": "^0.0.1",
+    "swagger-autogen": "^2.23.7"
   }
 }
